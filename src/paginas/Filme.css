@@ -1,0 +1,18 @@
+.filme-pagina {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;    
+  }
+  
+  .info {
+    margin-left: 22px;
+    width: 35%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #111;
+    padding: 20px;
+  }

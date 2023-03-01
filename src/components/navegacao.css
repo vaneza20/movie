@@ -1,0 +1,13 @@
+#navbar h2 {
+    color: black;
+    font-size: 55px;
+    text-align: center;
+    /* margin: 2rem 0 1rem; */
+  }
+
+  #navbar form {
+    color: #fff;
+    font-size: 2.5rem;
+    text-align: center;
+    /* margin: 2rem 0 1rem; */
+  }
